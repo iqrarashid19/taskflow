@@ -69,7 +69,25 @@ Users can update:
 * Email
 * Notification preference
 
----
+## 📸 App Screenshots
+
+### Splash Screen
+![TaskFlow Splash Screen](assets/screenshots/01_splash_screen.jpeg)
+
+### Welcome Screen
+![TaskFlow Welcome Screen](assets/screenshots/02_welcome_screen.jpeg)
+
+### Home Dashboard
+![TaskFlow Home Dashboard](assets/screenshots/03_home_dashboard.jpeg)
+
+### Tasks
+![TaskFlow Tasks Screen](assets/screenshots/04_tasks_screen.jpeg)
+
+### Planner
+![TaskFlow Planner Screen](assets/screenshots/05_planner_screen.jpeg)
+
+### Profile
+![TaskFlow Profile Screen](assets/screenshots/06_profile_screen.jpeg)
 
 ## 🛠️ Tech Stack
 
